@@ -1,0 +1,14 @@
+{
+  "name": "node-bot",
+  "version": "1.0.0",
+  "description": "simple bot to extract image",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Riasat Raihan <riasatraihan@gmail.com> (https://github.com/riasat97/)",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.71.0"
+  }
+}
